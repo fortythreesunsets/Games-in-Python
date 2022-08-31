@@ -3,4 +3,5 @@ Made in Python using PyGame following [this tutorial](https://youtu.be/XGf2GcyHP
 
 ## Controls
 Player 1: Arrow keys
+
 Player 2: WASD keys
