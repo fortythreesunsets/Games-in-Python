@@ -8,5 +8,7 @@ The game ends when the uncleared lines reach the top of the playing field.
 
 ## Controls
 Make the piece fall faster = Down arrow key
+
 Rotate piece = Up arrow key
+
 Choose placement of piece = Left and Right arrow keys
